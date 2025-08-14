@@ -12,5 +12,5 @@ The code covers the following stages of the analysis pipeline:
 - Analysis of CFD simulation results
 
 
-These scripts were developed for the analyses in *Adaptations in wing morphology rather than wingbeat kinematics enable flight in small hoverfly species* and may not be optimized for general use. They are provided as-is for transparency and reproducibility.
+These scripts may not be optimized for general use. They are provided as-is for transparency and reproducibility.
 
