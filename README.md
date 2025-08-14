@@ -1,4 +1,4 @@
-## Repository Description
+## Description
 
 This repository contains the complete suite of R scripts required to reproduce the analyses presented in the research article:
 
