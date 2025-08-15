@@ -2,7 +2,7 @@
 
 This repository contains the complete suite of R scripts used to reproduce the analyses from the research article:  
 
-**Adaptations in wing morphology rather than wingbeat kinematics enable flight in small hoverfly species** (_eLife_, 2025)
+**Adaptations in wing morphology rather than wingbeat kinematics enable flight in small hoverfly species** (_eLife_, 2025)  
 DOI: [10.7554/eLife.97839.2](https://elifesciences.org/reviewed-preprints/97839v2)
 
 The code covers the following stages of the analysis pipeline:  
